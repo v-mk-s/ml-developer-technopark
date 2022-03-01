@@ -1,2 +1,2 @@
-# ml-developer-technopark
-ML/DL [in progress]
+# ML Developer (VK course)
+ML/DL [in progress]()
